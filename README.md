@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am Himani
 I am studying Bachelor in Computer Science at Wright State University.
+This semester I am going to work with C language, I am not sure about what project to do as of now.
 <!--
 **Himanii27/Himanii27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
